@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="StockEase.API/StockEase.API.csproj" Id="197e0750-cffe-46fb-b92f-e1b09655a766" />
+  <Project Path="StockEase.Application/StockEase.Application.csproj" Id="5a09b614-0711-47d0-8784-28d30c6f2ade" />
+  <Project Path="StockEase.Domain/StockEase.Domain.csproj" Id="452b25f1-b5be-448a-83ee-6486fd73409a" />
+  <Project Path="StockEase.Infrastructure/StockEase.Infrastructure.csproj" Id="70ff0e69-932f-4880-9582-df8e1f6ab2e0" />
+</Solution>
